@@ -1,3 +1,41 @@
+/* global.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Custom styles */
+.text-crypto-success {
+  color: #10b981;
+}
+
+.text-crypto-danger {
+  color: #ef4444;
+}
+
+.text-crypto-warning {
+  color: #f59e0b;
+}
+
+.text-crypto-info {
+  color: #3b82f6;
+}
+
+.bg-crypto-dark {
+  background-color: #0a0e17;
+}
+
+.bg-crypto-card-dark {
+  background-color: #121826;
+}
+
+.bg-crypto-primary {
+  background-color: #2563eb;
+}
+
+.bg-crypto-secondary {
+  background-color: #7c3aed;
+}
+
+.bg-crypto-accent {
+  background-color: #06b6d4;
+}
